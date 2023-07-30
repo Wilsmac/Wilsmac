@@ -2,7 +2,7 @@
 - 💞️ I’m looking to collaborate on
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=𝑾𝑰𝒔𝒎𝒂𝒄♥︎++;Hola+soy+𝑾𝒊𝒍𝒎𝒆𝒓_𝑴𝒂𝒄𝒖𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀.+𝐋𝐨𝐯𝐞" height="90px"></a> ,
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑾𝑰𝒔𝒎𝒂𝒄♥︎++;Hola+soy+𝑾𝒊𝒍𝒎𝒆𝒓_𝑴𝒂𝒄𝒖𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀.+𝐋𝐨𝐯𝐞" height="90px"></a> ,
 </p>
  
 [![blog](https://img.shields.io/badge/Mi+YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac)
