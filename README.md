@@ -33,5 +33,4 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 ### 📊 my stats :
 --->
-
-[![GitHub Streak](https://streak-stats.demolab.com?Wilsmac=WilmerMacu&theme=dark&hide_border=true&border_radius=&date_format=M%20j%5B%2C%20Y%5D&background=45%2C19090900%2C000000B3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=dark&border=000000ED)]  (https://git.io/streak-stats) 
