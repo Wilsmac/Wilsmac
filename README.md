@@ -6,6 +6,13 @@
 </p>
  
 [![blog](https://img.shields.io/badge/Mi+YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac)
+
+<a href="https://instagram.com/cmwilmer4?igshid=ZDdkNTZiNTM%3D">
+<img src="https://img.shields.io/badge/mi Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+
+
 <!---
 Wilsmac/Wilsmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
