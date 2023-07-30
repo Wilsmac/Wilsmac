@@ -24,6 +24,10 @@ You can click the Preview link to take a look at your changes.
 <img 
 src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" height=",45px">
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WilmerMacu&theme=transparent&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+
+
 ## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
