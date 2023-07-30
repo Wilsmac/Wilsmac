@@ -12,11 +12,6 @@
 <a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="40px"></a>
 ------------------
 
-<!---
-### 📊 my stats :
---->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=dark&border=000000ED)] 
-
 
 <!---
 Wilsmac/Wilsmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +23,14 @@ You can click the Preview link to take a look at your changes.
 
 <img 
 src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" height=",45px">
+
+
+<!---
+### 📊 my stats :
+--->
+![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=dark&border=000000ED) 
+
+
 
 
 ## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
