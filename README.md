@@ -11,8 +11,7 @@
 
 <a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="40px"></a>
 ------------------
-<Img
-src="https://camo.githubusercontent.com/51365d1c311aa810be4bbbf286a6b6b74c0aa8d091ea4441cf1307c3aeea5a49/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d444945474f2d4f46432673686f775f69636f6e733d74727565267468656d653d636861727472657573652d6461726b" height=",55px"> 
+
 
 <!---
 Wilsmac/Wilsmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
