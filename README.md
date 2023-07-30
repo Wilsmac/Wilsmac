@@ -10,7 +10,7 @@
 </a> 
 
 
- href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="40px"></a>
+<a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="40px"></a>
 ------------------
 
 <!---
