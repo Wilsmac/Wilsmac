@@ -8,10 +8,10 @@
 [![blog](https://img.shields.io/badge/Mi-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac) <a href="https://instagram.com/cmwilmer4?igshid=ZDdkNTZiNTM%3D">
 <img src="https://img.shields.io/badge/mi-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-<a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="38px"></a>
+
+
+<a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="40px"></a>
 ------------------
-
-
 
 <!---
 Wilsmac/Wilsmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
