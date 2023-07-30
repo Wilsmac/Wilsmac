@@ -12,6 +12,11 @@
 <a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="40px"></a>
 ------------------
 
+<!---
+### 📊 my stats :
+--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=dark&border=000000ED)] 
+
 
 <!---
 Wilsmac/Wilsmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,8 +34,6 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
 `❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
-<!---
 
-### 📊 my stats :
---->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=dark&border=000000ED)]  (https://git.io/streak-stats) 
+
+ 
