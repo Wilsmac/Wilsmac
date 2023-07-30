@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## `EDITOR & PROPIETARIO DEL BOT` 
+## `Mi perfil😊 ` 
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
-`❥︎𖠌Fᴇɴɪx-Bᴏᴛ-GD𖣘✍︎`
+`❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
