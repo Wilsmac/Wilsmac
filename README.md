@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 `❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
 
 
-<a href="https://replit.com/github/Wilsmac"> <mp4 src="https://twitter.com/elonmusk/status/1682978324375543808?t=zyZ2HcOOLG48aEl5bzS6Jw&s=19/giphy.gif" height="40px"></a>
+<a href="https://replit.com/github/Wilsmac"> <video src="https://twitter.com/elonmusk/status/1682978324375543808?t=zyZ2HcOOLG48aEl5bzS6Jw&s=19/giphy.gif" height="40px"></a>
 ------------------
 
 <a src="https://twitter.com/elonmusk/status/1682978324375543808?t=zyZ2HcOOLG48aEl5bzS6Jw&s=19" height=",45px">
