@@ -28,8 +28,8 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 ![Wilme macu GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilsmac&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&size_weight=0.5&count_weight=0.5)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&radical.weight=0.5&count_weight=0.5)
+size
 ## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
