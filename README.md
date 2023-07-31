@@ -1,10 +1,7 @@
 
 <img src="https://camo.githubusercontent.com/ae6594bda35eeeb6f0198da7161b076dec9cdbfebdb8ad4372ae1d3f54aba461/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d424135324636266865696768743d3132302673656374696f6e3d686561646572" height=",70px"> 
 </p>
-
-
 - 🤩 I’am Wilsmac }= OFC {
-- 💞️ I’m looking to collaborate on
 
 <p align="center"> 
 <a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑾𝑰𝒔𝒎𝒂𝒄♥︎++;Hola+soy+𝑾𝒊𝒍𝒎𝒆𝒓_𝑴𝒂𝒄𝒖𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀.+𝐋𝐨𝐯𝐞" height="100px"></a> ,
