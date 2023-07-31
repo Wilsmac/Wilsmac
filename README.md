@@ -41,4 +41,8 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <img src="https://camo.githubusercontent.com/b9ce572578ce01213bcad5bb5927bdd6cb54f27b66c33e8251c28ba3583419dc/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d424135324636266865696768743d3132302673656374696f6e3d666f6f746572" height=",,70px">
 </p>  
 
+<b>GitHub Stats </b>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wilsmac&hide=stars&show_icons=true&theme=Radical&line_width=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&count_private=true&theme=Radical">
 
+</p>
