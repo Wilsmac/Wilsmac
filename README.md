@@ -28,10 +28,10 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&&theme=radical&border=000000ED.weight=0.5&count_weight=0.5) 
 
 ## `Mis lenguajes que usó'
-
 <img 
-src="https://developer.mozilla.org/en-US/docs/Web/Javascript height=",,45px"> 
-</p>
+src="https://developer.mozilla.org/en-US/docs/Web/Javascript" height=",45px">
+
+
 ## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
