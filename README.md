@@ -44,7 +44,8 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 src="https://bgjar.com/polygon-luminary height=",,45px">
 </p>
 
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="400" height="150" preserveAspectRatio="none" viewBox="0 0 400 150">
+src="<svg
+srcxmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="400" height="150" preserveAspectRatio="none" viewBox="0 0 400 150">
     <g mask="url(&quot;#SvgjsMask1204&quot;)" fill="none">
         <rect width="400" height="150" x="0" y="0" fill="url(&quot;#SvgjsLinearGradient1205&quot;)"></rect>
         <path d="M-12.84 127.64L-12.84 127.64" stroke="#132e65" stroke-width="1.5"></path>
@@ -324,5 +325,5 @@ src="https://bgjar.com/polygon-luminary height=",,45px">
             <stop stop-color="rgba(23, 53, 179, 0)" offset="1"></stop>
         </radialGradient>
     </defs>
-</svg>
+</svg> height=",45px">
 </p>
