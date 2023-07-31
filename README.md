@@ -43,6 +43,6 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 <b>GitHub Stats </b>
   <img src="https://github-readme-stats.vercel.app/api?username=Wilsmac&hide=stars&show_icons=true&theme=Radical&line_width=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&count_private=true&theme=Radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&count_private=true&theme=Radical">)
 
 </p>
