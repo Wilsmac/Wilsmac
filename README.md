@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <!---
 ### 📊 my stats :
 --->
-![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=dracula&border=000000ED) 
+![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=radical&border=000000ED) 
 
 
 ![Wilme macu GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilsmac&show_icons=true&theme=dracula)
