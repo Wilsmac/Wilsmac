@@ -25,11 +25,11 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 --->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=radical&border=000000ED) 
 
-
+&theme=radical&border=000000ED) 
 ![Wilme macu GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilsmac&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&size.weight=0.5&count_weight=0.5) 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&&theme=radical&border=000000ED.weight=0.5&count_weight=0.5) 
+size
 ## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
@@ -41,8 +41,3 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <img src="https://camo.githubusercontent.com/b9ce572578ce01213bcad5bb5927bdd6cb54f27b66c33e8251c28ba3583419dc/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d424135324636266865696768743d3132302673656374696f6e3d666f6f746572" height=",,70px">
 </p>  
 
-<b>GitHub Stats </b>
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilsmac&hide=stars&show_icons=true&theme=Radical&line_width=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&count_private=true&theme=Radical">)
-
-</p>
