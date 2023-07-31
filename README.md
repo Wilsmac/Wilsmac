@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 <img 
 src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" height=",45px">
 
-
 ### `📊 my stats`
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=radical&border=000000ED) 
@@ -30,8 +29,6 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 ### `Mis lenguajes que usó'
 
-<td align="center"><a href="topics/software_development/README.md"><img src="images/programming.png" width="60px;" height="60px;" alt="programming"/><br /><b>Software Development</b></a></td>
-    <td align="center"><a href="https://github.com/Wilsmac"><img src="images/python.png" width="60px;" height="60px;" alt="Python"/><br /><b>Python</b></a></td>
 
 ## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
@@ -45,14 +42,3 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 </p>  
 
 
-
-****
-
-<!-- ALL-TOPICS-LIST:START -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<center>
-<table>
-  <tr>
-   
-<td align="center"><a href="#network"><img src="images/network.png" width="75px;" height="75px;" alt="Network"/><br /><b>Network</b></a></td>
