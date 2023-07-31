@@ -325,3 +325,4 @@ src="https://bgjar.com/polygon-luminary height=",,45px">
         </radialGradient>
     </defs>
 </svg>
+</p>
