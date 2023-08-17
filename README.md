@@ -1,3 +1,9 @@
+<a
+[![blog](https://img.shields.io/badge/contactame_en-WhtsApp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=lightgreen)](https://wa.me/5057639 0682)
+
+
+
+
 
 <img src="https://camo.githubusercontent.com/ae6594bda35eeeb6f0198da7161b076dec9cdbfebdb8ad4372ae1d3f54aba461/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d424135324636266865696768743d3132302673656374696f6e3d686561646572" height=",70px"> 
 </p>
