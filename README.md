@@ -1,5 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilsmac)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <a href="https://api.whatsapp.com/send/?phone=50576390682&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
 
