@@ -1,6 +1,6 @@
 
 <a href="https://github.com/Wilsmac/WaBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=WaBot" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?color:lithgren;username=Wilsmac&repo=WaBot" />
 </a>
 
 <a href="https://api.whatsapp.com/send/?phone=50576390682&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
