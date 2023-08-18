@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/githubFenixBot-GD">
-  <img align="center" src="https://github-Wilsmac/Fenix-bot-CD.app/api/pin/?username=Wilsc&repo=github-FenixBot-GD" />
+  <img align="center" src="https://github-Wilsmac/Fenix-bot-CD.app/api/pin/?Wilsmac=Wilsc&repo=github-FenixBot-GD" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
