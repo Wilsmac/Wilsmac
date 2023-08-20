@@ -42,6 +42,8 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
 `❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
+<img src="https://github-readme-stats.vercel.app/api?username=Wilsmac&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
+
 
 <a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="50px"></a>
 ------------------
