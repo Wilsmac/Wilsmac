@@ -35,6 +35,8 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
  <p>
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24"></a>
    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
+ <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
+    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
     
 
 
