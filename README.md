@@ -1,4 +1,4 @@
-[![Alt text](https://img.youtube.com/vi/C7O9YsKbgGY?si/0.jpg)](https://www.youtube.com/watch?v=6VPCfifcARwwOss-)
+[![Alt text](https://img.youtube.com/shorts/C7O9YsKbgGY?si/0.jpg)](https://www.youtube.com/watch?v=6VPCfifcARwwOss-)
 
 https://youtube.com/shorts/C7O9YsKbgGY?si=6VPCfifcARwwOss-
 
