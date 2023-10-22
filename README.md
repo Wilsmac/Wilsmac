@@ -1,13 +1,6 @@
-<p align="center">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/Wilsmac/Fenix-Bot-CD" />
-  </a>
-  <a aria-label="Suhail_Md is free to use" href="https://github.com/Wilsmac/Fenix-Bot-CD/blob/main/LICENCE" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
-  </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/WilSMaC" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
-  </a>
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Wilsmac}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
+
 
 <a
 href="https://api.whatsapp.com/send/?phone=50576390682&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
