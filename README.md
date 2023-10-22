@@ -1,5 +1,3 @@
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Wilsmac}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
 
 
 <a
@@ -17,6 +15,9 @@ href="https://api.whatsapp.com/send/?phone=50576390682&text=hola, buenas tardes&
 [![blog](https://img.shields.io/badge/Mi-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac) <a href="https://instagram.com/cmwilmer4?igshid=ZDdkNTZiNTM%3D">
 <img src="https://img.shields.io/badge/mi-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Wilsmac}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
 
 <!---
 Wilsmac/Wilsmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
