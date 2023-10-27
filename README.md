@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&&theme=radical&border=000000ED.weight=0.5&count_weight=0.5) 
 
-### Mis lenguajes que usó
+### APRENDIDO✨
  <p>
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24"></a>
    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
