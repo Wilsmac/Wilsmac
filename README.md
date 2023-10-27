@@ -57,9 +57,11 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
 `❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
-
+### mis proyectos 
 <a href="https://github.com/Wilsmac/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=Fenix-Bot-CD&theme=merko)</a>
 <a href="https://github.com/Wilsmac/MakeBot-MD1">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=MakeBot-MD1&theme=merko)</a>
+### colaboradoro en:
+<a href="https://github.com/AzamiJs/curiositybot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=curiositybot-MD&theme=dark)</a>
 
 <a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="50px"></a>
 ------------------
