@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-<meta charset="UTF-8">
-<title>hello</title>
- .card {
-  width: 280px;
-  height: 280px;
-  background: white;
-  border-radius: 32px;
-  padding: 3px;
-  position: relative;
-  box-shadow: #604b4a30 0px 70px 30px -50px;
-  transition: all 0.5s ease-in-out;
-}
-
-.card .mail {
-  position: absolute;
-  right: 2rem;
-  top: 1.4rem;
-  background: transparent;
-  border: none;
-}
-
-.card .mail svg {
-  stroke: #fbb9b6;
-  stroke-width: 3px;
-}
-
-.card .mail svg:hover {
+ svg:hover {
   stroke: #f55d56;
 }
 
@@ -134,53 +105,6 @@
   border-radius: 20px;
   font-size: 0.6rem;
   padding: 0.4rem 0.6rem;
-  box-shadow: rgba(165, 132, 130, 0.1333333333) 0px 5px 5px 0px;
-}
-
-.card .bottom .bottom-bottom .button:hover {
-  background: #f55d56;
-  color: white;
-}
-
-.card:hover {
-  border-top-left-radius: 55px;
-}
-
-.card:hover .bottom {
-  top: 20%;
-  border-radius: 80px 29px 29px 29px;
-  transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s;
-}
-
-.card:hover .profile-pic {
-  width: 100px;
-  height: 100px;
-  aspect-ratio: 1;
-  top: 10px;
-  left: 10px;
-  border-radius: 50%;
-  z-index: 3;
-  border: 7px solid #fbb9b6;
-  box-shadow: rgba(96, 75, 74, 0.1882352941) 0px 5px 5px 0px;
-  transition: all 0.5s ease-in-out, z-index 0.5s ease-in-out 0.1s;
-}
-
-.card:hover .profile-pic:hover {
-  transform: scale(1.3);
-  border-radius: 0px;
-}
-
-.card:hover .profile-pic img {
-  transform: scale(2.5);
-  -o-object-position: 0px 25px;
-  object-position: 0px 25px;
-  transition: all 0.5s ease-in-out 0.5s;
-}
-
-.card:hover .profile-pic svg {
-  transform: scale(2.5);
-  transition: all 0.5s ease-in-out 0.5s;
-} 
 
 <a
 href="https://api.whatsapp.com/send/?phone=50576390682&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
