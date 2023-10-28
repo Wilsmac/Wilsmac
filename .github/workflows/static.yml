@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: Wilsmac
-      url: ${{ www.wilsmac.com/proyectos/ }}
+      url: ${{ https://wilsmac.com/proyectos }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -34,7 +34,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Wilsmac
-        uses: actions/upload-pages-artifact@v2
+        uses: user/Wilsmac 
         with:
           # Upload entire repository
           path: '.'
