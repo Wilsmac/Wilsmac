@@ -11,7 +11,7 @@ href="https://api.whatsapp.com/send/?phone=50576390682&text=hola, buenas tardes&
 - 🤩 I’am Wilsmac }= OFC {
 
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑾𝒊𝒍𝒔𝒎𝒂𝒄♥︎+hum++;𝙷𝚘𝚕𝚊+𝚂𝚘𝚢+『⿻𝙐𝙉𝙄𝙁𝙄𝙉𝙀𝘿』𓃠𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀+𝐋𝐨𝐯𝐞" height="100px"></a> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=𝑾𝒊𝒍𝒔𝒎𝒂𝒄♥︎++;𝙷𝚘𝚕𝚊+𝚂𝚘𝚢+『⿻𝙐𝙉𝙄𝙁𝙄𝙉𝙀𝘿』𓃠𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀+𝐋𝐨𝐯𝐞" height="100px"></a> 
 </p>
  
 [![blog](https://img.shields.io/badge/Mi-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac) <a href="https://instagram.com/cmwilmer4?igshid=ZDdkNTZiNTM%3D">
@@ -39,8 +39,8 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 </div>
 
-> <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Lenguajes aprendidos: </h3>
-<div align="left">
+> <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Lenguajes aprendidos :octocat: </h3>
+<div align="left"> 
 
 
  <p>
