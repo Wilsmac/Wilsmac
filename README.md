@@ -2,6 +2,38 @@
 function from 'put0'
 await import 'gay'
 ```
+```ts
+// // haremos el trabajo en caché de .slow
+let worker = {
+  someMethod() {
+    return 1;
+  },
+
+  slow(x) {
+    // una aterradora tarea muy pesada para la CPU
+    alert("Called with " + x);
+    return x * this.someMethod(); // (*)
+  }
+};
+
+// el mismo código de antes
+function cachingDecorator(func) {
+  let cache = new Map();
+  return function(x) {
+    if (cache.has(x)) {
+      return cache.get(x);
+    }
+    let result = func(x); // (**)
+    cache.set(x, result);
+    return result;
+  };
+}
+```
+alert( worker.slow(1) ); // el método original funciona
+
+worker.slow = cachingDecorator(worker.slow); // ahora hazlo en caché
+
+alert( worker.slow(2) ); // Whoops! Error: Cannot read property 'someMethod' of undefined
 
 <a
 href="https://api.whatsapp.com/send/?phone=50576390682&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
