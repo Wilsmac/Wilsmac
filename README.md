@@ -1,6 +1,5 @@
-```xml
-<script app-name="{NAME OF YOUR APP}" src="./_content/Microsoft.FluentUI.AspNetCore.Components/js/initializersLoader.webview.js"></script>
-<script src="_framework/blazor.webview.js"></script>
+```razor
+@Wilsmac/Bailey
 ```
 
 <a
