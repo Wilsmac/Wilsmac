@@ -3,7 +3,7 @@ function from 'put0'
 await import 'gay'
 ```
 ```razor
-// // haremos el trabajo en caché de .slow
+// haremos el trabajo en caché de .slow
 let worker = {
   someMethod() {
     return 1;
