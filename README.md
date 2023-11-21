@@ -1,5 +1,5 @@
-```xml
-function 
+```ts
+function from 'puto'
 ```
 
 <a
