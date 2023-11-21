@@ -1,5 +1,6 @@
 ```ts
-function from 'puto'
+function from 'put0'
+await import 'gay'
 ```
 
 <a
