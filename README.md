@@ -7,7 +7,7 @@ await import 'gay'
 href="https://api.whatsapp.com/send/?phone=50576390682&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
 <a 
 href="https://www.facebook.com/profile.php?id=100087508301537&mibextid=ZbWKwL">
-<img src="https://img.shields.io/badge/mi%20Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=blue">
+<img src="https://img.shields.io/badge/mi%20Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue">
 </a>
 <img src="https://camo.githubusercontent.com/ae6594bda35eeeb6f0198da7161b076dec9cdbfebdb8ad4372ae1d3f54aba461/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d424135324636266865696768743d3132302673656374696f6e3d686561646572" height=",70px"> 
 </p>
