@@ -72,11 +72,11 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 `❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
 ### `mis proyectos`
 <a href="https://github.com/Wilsmac/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=Fenix-Bot-CD&theme=merko)</a>
-<a href="https://github.com/Wilsmac/FantasyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD&theme=merko)</a>
+<a href="https://github.com/Wilsmac/FantasyBot-MD-v1">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD-v1&theme=merko)</a>
 
 ### `colaboró en:`
 
-<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=dark)</a>
+>nigúno xd, nadie quiere colaborar conmigo 🥹
 
 <a href="https://replit.com/github/Wilsmac"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="50px"></a>
 ------------------
