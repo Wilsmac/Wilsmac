@@ -5,7 +5,7 @@ function from 'put0'
 await import 'gay'
 ```
 <a
-href="https://api.whatsapp.com/send/?phone=50576390682&text=hola, buenas tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
+href="https://api.whatsapp.com/send/?phone=50258115623&text=hola,%20buenas%20tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
 <a 
 href="https://www.facebook.com/profile.php?id=100087508301537&mibextid=ZbWKwL">
 <img src="https://img.shields.io/badge/mi%20Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue">
