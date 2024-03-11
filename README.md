@@ -51,7 +51,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 </div>
 
-> <h1 align="left"><img src = "https://telegra.ph/file/e0fac4b2ba848c6d8f5a4.mp4?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Lenguajes aprendidos :octocat: </h1>
+> <h1 align="left"><img src = "https://telegra.ph/file/e0fac4b2ba848c6d8f5a4.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Lenguajes aprendidos :octocat: </h1>
 <div align="left"> 
 
 
