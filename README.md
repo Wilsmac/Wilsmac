@@ -60,12 +60,12 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="24"></a>
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="24"></a>
 
-   
+ 
   
  </p>
 
 
-## `𝐵𝐼𝐸𝑁𝐵𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
+## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
 `❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
