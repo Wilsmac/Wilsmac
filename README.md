@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
       <a href="#">
-        <img src="./imagenes/menu2.gif" />
+        <img src="./Imagenes/menu2.gif" />
     </a>
 </div>
 
