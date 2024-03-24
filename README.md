@@ -77,4 +77,4 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 >nigúno xd, nadie quiere colaborar conmigo 🥹
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
