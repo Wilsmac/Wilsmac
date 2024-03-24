@@ -1,5 +1,5 @@
 <div align="center" style"border-radius:15px">
-      <a href="#">
+      <a href="">
         <img src="./Imagenes/menu2.gif" />
     </a>
 </div>
