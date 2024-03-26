@@ -1,4 +1,4 @@
-<div align="center" style"border-radius:15px">
+<div align="center" style"border-radius:10px">
       <a href="">
         <img src="./Imagenes/menu2.gif" />
     </a>
