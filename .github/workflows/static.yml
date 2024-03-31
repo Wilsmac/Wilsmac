@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: Wilsmac
-      url: ${{ www.undefined.com }}
+      url: ${{ www.undefined90.com }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
