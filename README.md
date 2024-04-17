@@ -17,10 +17,9 @@ href="https://www.facebook.com/profile.php?id=100087508301537&mibextid=ZbWKwL">
 </a>
 
 </p>
-
 <a href="https://github.com/Wilsmac"><img src="https://cardivo.vercel.app/api?name=Wilsmac&description=𝙃𝙤𝙡𝙖,%20𝙎𝙤𝙮%20𝑾𝒊𝒍𝒎𝒆𝒓,%20𝙜𝙧𝙖𝙘𝙞𝙖𝙨%20𝙥𝙤𝙧%20𝙫𝙞𝙨𝙞𝙩𝙖𝙧%20𝙚𝙡%20𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙤.%20♥︎%20𝙄%20𝙇𝙤𝙫𝙚%20𝙔𝙤𝙪%20𝙁𝙤𝙧𝙚𝙫𝙚𝙧%20𝙈𝙮%20𝙇𝙤𝙫𝙚%20𝘼𝙗𝙞𝙜𝙖𝙞𝙡💗%20🌹&image=https://telegra.ph/file/a5e1e8e34c2478e1b5840.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=cmwilmer4&github=Wilsmac&pattern=leaf&colorPattern=%23eaeaea" /><a>  
-- 🤩 I’am Wilsmac }= OFC {
 
+- 🤩 I’am Wilsmac }= OFC {
 <p align="center"> 
 <a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[FF0000]&center=falso&vCenter=falso&lines=𝑾𝒊𝒍𝒔𝒎𝒂𝒄♥︎++;𝙷𝚘𝚕𝚊+𝚂𝚘𝚢+『⿻𝙐𝙉𝙄𝙁𝙄𝙉𝙀𝘿』𓃠𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀+𝐋𝐨𝐯𝐞" height="100px"></a> 
 </p>
@@ -56,9 +55,9 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
  <p>
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="24"></a>
    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="24"></a>
- <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
-    <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
-       <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
+       <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="24"></a>
+           <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
+                 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
    
 ### 💻 `Software y herramientas` 🌟
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="24"></a>
