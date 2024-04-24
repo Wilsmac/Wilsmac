@@ -41,7 +41,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 ### `📊 my stats`
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Wilsmac&theme=radical&border=000000ED)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wilsmac&theme=merko&hide_border=FALSO&card_width=500" alt="GitHub Streak" /></a>
 
 ![Wilme macu GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilsmac&show_icons=true&theme=radical)
 
