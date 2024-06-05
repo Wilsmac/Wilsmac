@@ -71,8 +71,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 | <img src="https://github.com/Wilsmac/Wilsmac/blob/main/Imagenes/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/> | <img src="https://github.com/Wilsmac/Wilsmac/blob/main/kali-linux.svg" title="Linux" alt="Linux" width="35" height="35"/> |
  </p>
 
-
-## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 ` 
+## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 `
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
 `❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
