@@ -68,7 +68,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 | Linux | Kali |
 |----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/> | <img src="https://github.com/Wilsmac/Wilsmac/blob/main/kali-linux.svg" title="Linux" alt="Linux" width="35" height="35"/> |
+| <img src="https://github.com/Wilsmac/Wilsmac/blob/main/Imagenes/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/> | <img src="https://github.com/Wilsmac/Wilsmac/blob/main/kali-linux.svg" title="Linux" alt="Linux" width="35" height="35"/> |
  </p>
 
 
