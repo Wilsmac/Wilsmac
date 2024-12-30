@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/united_states/USERNAME.svg)](https://user-badge.committers.top/united_states/Wilsmac)
+[![committers.top badge](https://user-badge.committers.top/united_states/Wilsmac.svg)](https://user-badge.committers.top/united_states/Wilsmac)
 
 
 
