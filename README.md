@@ -45,11 +45,11 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 
 ### `📊 my stats`
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wilsmac&theme=highcontrast)](https://git.io/streak-stats)
-
-![Wilme macu GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilsmac&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilsmac&&theme=radical&border=000000ED.weight=0.5&count_weight=0.5) 
+<div align="center">
+<a href="https://github.com/Wilsmac/"><img src="https://github-readme-stats.vercel.app/api?username=Wilsmac&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilsmac&show_icons=true&locale=es&layout=compact&line_height=20&title_color=000000&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="Wilsmac"/>
+<br><br>
+</a>
 
 </div>
 
