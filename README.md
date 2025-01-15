@@ -46,8 +46,8 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 ### `📊 my stats`
 
 <div align="center">
-<a href="https://github.com/Wilsmac/"><img src="https://github-readme-stats.vercel.app/api?username=Wilsmac&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7FFF00&icon_color=000000&text_color=0000CD&bg_color=0,000000,130F40&locale=es" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilsmac&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7FFF00&icon_color=000000&text_color=0000CD&bg_color=0,000000,130F40" width="290"  alt="Wilsmac"/>
+<a href="https://github.com/Wilsmac/"><img src="https://github-readme-stats.vercel.app/api?username=Wilsmac&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7FFF00&icon_color=2234AE&text_color=0000CD&bg_color=0,000000,130F40&locale=es" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilsmac&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7FFF00&icon_color=2234AE&text_color=0000CD&bg_color=0,000000,130F40" width="290"  alt="Wilsmac"/>
 <br><br>
 </a>
 
