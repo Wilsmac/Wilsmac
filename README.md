@@ -11,7 +11,7 @@
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
 ```ts
-function from 'put0'
+import { eres } from 'ga1'
 ```
 <a
 href="https://api.whatsapp.com/send/?phone=50258115623&text=hola,%20buenas%20tardes&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/contactame-whtsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen" />
