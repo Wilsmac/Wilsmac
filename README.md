@@ -42,9 +42,10 @@ You can click the Preview link to take a look at your changes.
 src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" height=",45px">
 
 ### `📊 my stats`
+<p align="center">
 <a href="https://github.com/Wilsmac"><img alt="40"
-src="https://githubcard.com/Wilsmac/NatsukiBot.svg?d=KD3L9j7g" height="24"></a>
-
+src="https://githubcard.com/Wilsmac/NatsukiBot.svg?d=KD3L9j7g" height="70"></a>
+</p>
 > <h1 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Lenguajes aprendidos :octocat: </h1>
 <div align="left"> 
 
