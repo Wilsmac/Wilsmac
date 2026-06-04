@@ -78,7 +78,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 ## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 `
 <a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
-`❥︎𝑾𝑰𝑳𝑴𝑬𝑹_𝑮𝑫シ︎♥︎`
+`mᥲძᥱ ᥕі𝗍һ ᑲᥡ TeamNsk`
 ### `mis proyectos`
 <a href="https://github.com/Wilsmac/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=Fenix-Bot-CD&theme=merko)</a>
 <a href="https://github.com/Wilsmac/FantasyBot-MD-v1">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=FantasyBot-MD-v1&theme=merko)</a>
