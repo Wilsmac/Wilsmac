@@ -33,8 +33,6 @@ href="https://www.facebook.com/profile.php?id=100087508301537&mibextid=ZbWKwL">
 </a> 
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Wilsmac}/count.svg" alt="Wilsmac :: Visitor's Count" /></p>
-
 <!---
 Wilsmac/Wilsmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -44,14 +42,7 @@ You can click the Preview link to take a look at your changes.
 src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" height=",45px">
 
 ### `📊 my stats`
-
-<div align="center">
-<a href="https://github.com/Wilsmac/"><img src="https://github-readme-stats.vercel.app/api?username=Wilsmac&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7FFF00&icon_color=2234AE&text_color=0000CD&bg_color=0,000000,000000&locale=es" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilsmac&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7FFF00&icon_color=2234AE&text_color=0000CD&bg_color=0,000000,000000" width="290"  alt="Wilsmac"/>
-<br><br>
-</a>
-
-</div>
+https://githubcard.com/Wilsmac/NatsukiBot.svg?d=KD3L9j7g
 
 > <h1 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18> Lenguajes aprendidos :octocat: </h1>
 <div align="left"> 
