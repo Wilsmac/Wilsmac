@@ -81,8 +81,8 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 `mᥲძᥱ ᥕі𝗍һ ᑲᥡ TeamNsk`
 ### `mis proyectos`
 <p align="center">
-<a href"https://github.com/Wilsmac/NatsukiBot"/>
-  <img src=https://githubcard.com/Wilsmac/NatsukiBot.svg?d=KD3L9j7g" alt="Natsuki" />
+  <img src=https://githubcard.com/Wilsmac/NatsukiBot.svg?d=KD3L9j7g" alt="Natsuki"
+<a href"https://github.com/Wilsmac/NatsukiBot"/> />
 </p>
 
 
