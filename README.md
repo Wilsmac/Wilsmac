@@ -81,7 +81,7 @@ src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid
 `mᥲძᥱ ᥕі𝗍һ ᑲᥡ TeamNsk`
 ### `mis proyectos`
 <a href="https://github.com/Wilsmac/Fenix-Bot-CD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Wilsmac&repo=Fenix-Bot-CD&theme=merko)</a>
-<a href="https://github.com/Wilsmac/FantasyBot-MD-v1">![github card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={https://github.com/Wilsmac/NatsukiBot}&theme={radical})</a>
+<a href="https://github.com/Wilsmac/FantasyBot-MD-v1">![github card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={https://github.com/Wilsmac}&theme={radical})</a>
 
 ### `colaboró en:`
 
