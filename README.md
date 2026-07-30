@@ -82,6 +82,6 @@ src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" he
 
 ### `colaboró en:`
 
->nigúno xd, nadie quiere colaborar conmigo 🥹
+> Undefined
  
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
