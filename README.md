@@ -1,4 +1,4 @@
-w[![committers.top badge](https://user-badge.committers.top/guatemala/Wilsmac.svg)](https://user-badge.committers.top/guatemala/Wilsmac)
+[![committers.top badge](https://user-badge.committers.top/guatemala/Wilsmac.svg)](https://user-badge.committers.top/guatemala/Wilsmac)
 
 
 
