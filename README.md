@@ -48,12 +48,12 @@ src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" he
            <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="24"></a>
                  <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
 
- ### `APRENDIENDO`: 
+<!--- ### `APRENDIENDO`: 
 
 | Linux | Kali |
 |----------|----------|
 | <a href="#"><img src="https://github.com/Wilsmac/Wilsmac/blob/main/Imagenes/linux-original.svg" title="Linux" alt="Linux" width="49" height="49"/></a> |<a href="#"><img src="https://github.com/Wilsmac/Wilsmac/blob/main/kali-linux.svg" title="Linux" alt="Linux" width="49" height="49"/></a> |
- </p>
+ </p> --->
 
 ### `colaboró en:`
 
