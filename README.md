@@ -54,18 +54,11 @@ src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" he
 |----------|----------|
 | <a href="#"><img src="https://github.com/Wilsmac/Wilsmac/blob/main/Imagenes/linux-original.svg" title="Linux" alt="Linux" width="49" height="49"/></a> |<a href="#"><img src="https://github.com/Wilsmac/Wilsmac/blob/main/kali-linux.svg" title="Linux" alt="Linux" width="49" height="49"/></a> |
  </p>
-  
-`mᥲძᥱ ᥕі𝗍һ ᑲᥡ TeamNsk`
-### `mis proyectos`
-<p align="center">
-<a href"#"/>
-  <img src=https://githubcard.com/Wilsmac/NatsukiBot.svg?d=KD3L9j7g" alt="Natsuki" />
-</p>
-
-
 
 ### `colaboró en:`
 
 > Undefined
  
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+
+`mᥲძᥱ ᥕі𝗍һ ᑲᥡ TeamNsk`
