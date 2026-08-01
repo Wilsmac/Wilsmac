@@ -23,7 +23,7 @@ href="https://www.facebook.com/profile.php?id=100087508301537&mibextid=ZbWKwL">
 --->
 - 🤩 I’am Wilsmac }= OFC {
 <p align="center"> 
-<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[FF0000]&center=falso&vCenter=falso&lines=𝑾𝒊𝒍𝒔𝒎𝒂𝒄♥︎++;𝙷𝚘𝚕𝚊+𝚂𝚘𝚢+『⿻𝙐𝙉𝙄𝙁𝙄𝙉𝙀𝘿』𓃠𝑶𝑭𝑪+𝒖𝒏+𝒈𝒖𝒔𝒕𝒐+🥀+𝐋𝐨𝐯𝐞" height="100px"></a> 
+<a href="https://github.com/Wilsmac"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[FF0000]&center=falso&vCenter=falso&lines=ᴡɪʟsᴍᴀᴄ++;ᴘᴏᴡᴏʀᴇᴅ+ᴡʜɪᴛ+ʙʏ+ᴛᴇᴀᴍɴsᴋ" height="120px"></a> 
 </p>
  
 [![blog](https://img.shields.io/badge/Mi-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@WiLsMac) <a href="https://instagram.com/cmwilmer4?igshid=ZDdkNTZiNTM%3D">
@@ -65,9 +65,6 @@ src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" he
 |----------|----------|
 | <a href="#"><img src="https://github.com/Wilsmac/Wilsmac/blob/main/Imagenes/linux-original.svg" title="Linux" alt="Linux" width="49" height="49"/></a> |<a href="#"><img src="https://github.com/Wilsmac/Wilsmac/blob/main/kali-linux.svg" title="Linux" alt="Linux" width="49" height="49"/></a> |
  </p>
-
-## `𝐵𝐼𝐸𝑵𝑽𝐸𝑁𝐼𝐷𝑂(𝐴) 𝑎 𝑚𝑖 𝑝𝑒𝑟𝑓𝑖𝑙 `
-<a href="https://github.com/Wilsmac"><img src="https://github.com/Wilsmac.png" width="250" height="250" alt="Wilsmac"/></a>
   
 `mᥲძᥱ ᥕі𝗍һ ᑲᥡ TeamNsk`
 ### `mis proyectos`
