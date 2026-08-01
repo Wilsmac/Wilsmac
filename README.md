@@ -2,10 +2,11 @@
 
 
 
-<div align="center" style"border-radius:10px">
-      <a href="#">
-        <img src="./Imagenes/menu2.gif" />
-    </a>
+<div align="center">
+<a href="https://github.com/Wilsmac"><img src="https://github-stats-alpha.vercel.app/api?username=Wilsmac&cc=000000&tc=7A7ADB&ic=2234AE&bc=130F40" width="450"/>
+</a>
+
+[![](https://moe-counter.glitch.me/get/@:Wilsmac?theme=aso)](https://moe-counter.glitch.me)
 </div>
 
 <a href="#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
